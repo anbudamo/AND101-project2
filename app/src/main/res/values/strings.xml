@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Kotlin Debugging</string>
+
+    <string name="hello_world">Hello World</string>
+    <string name="sum_of_two_numbers">2 + 2</string>
+    <string name="current_day_text">Current Day</string>
+    <string name="random_color_text">Random Color</string>
+    <string name="print_list_text">Print List</string>
+    <string name="favorite_number_text">Favorite Number</string>
+    <string name="click_anywhere">Click anywhere!</string>
+</resources>
